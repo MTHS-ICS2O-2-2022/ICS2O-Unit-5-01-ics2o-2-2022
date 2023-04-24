@@ -15,7 +15,7 @@
 }
 
 .mdl-textfield__error {
-  color: lightgreen;
+  color: red;
 }
 
 .page-content {
